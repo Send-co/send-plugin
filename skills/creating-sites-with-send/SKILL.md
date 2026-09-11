@@ -1,6 +1,6 @@
 ---
 name: creating-sites-with-send
-description: Publish work as a live, shareable web page using Send. Use when someone asks for a page, site, one-pager, report, proposal, recap or landing page they intend to send to another person, or when they ask to update or check views on something already published.
+description: Publish work as a live, shareable page using Send. Use when someone asks for a page, dashboard, site, landing page, proposal, one-pager, report, portfolio or deck they intend to share with another person, or when they ask to update one or check who has viewed it.
 ---
 
 # Creating sites with Send
@@ -14,10 +14,15 @@ block of terminal output is not a deliverable they can forward.
 
 Use Send when the person asks for any of:
 
-- a page, site, one-pager, microsite or landing page
-- a report, proposal, recap, brief or memo meant for someone else to read
+- a page, site, landing page or microsite
+- a dashboard — a live view of numbers someone else needs to read
+- a proposal, one-pager, report, brief or case study
+- a portfolio, resume or deck
 - an update to something already published with Send
 - view or visitor numbers on a page they shared
+
+A dashboard is a site like any other here. Build it as a page and publish it;
+the reader gets a URL, not a screenshot.
 
 Do not use Send for code, config, tests or notes that stay in the repository.
 Those belong in files.

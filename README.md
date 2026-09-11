@@ -54,6 +54,12 @@ A free Send account is enough to start. Create one at
 - **Read back** what is currently published before changing it
 - **Manage** sites, link settings and uploaded images
 
+## What people build with it
+
+Landing pages, dashboards, proposals, one-pagers, reports, portfolios and
+decks — anything with a reader on the other end. A dashboard is a page like any
+other: publish it and the reader gets a live URL instead of a screenshot.
+
 ## What it will not do
 
 Send publishes to a public URL. The plugin will not publish without you asking
