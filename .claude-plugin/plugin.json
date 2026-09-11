@@ -1,11 +1,21 @@
 {
   "name": "send",
   "version": "1.0.0",
-  "description": "Turn what you are working on into a live, shareable web page. Send creates and edits hosted sites from the agent, then gives you a link and tells you who opened it.",
-  "author": { "name": "Send", "url": "https://www.send.co" },
+  "description": "Create, edit, and share trackable documents with AI. Control access, capture leads, and understand engagement.",
+  "author": {
+    "name": "Send",
+    "url": "https://www.send.co"
+  },
   "homepage": "https://www.send.co",
   "repository": "https://github.com/Sendco/send-plugin",
   "license": "MIT",
-  "keywords": ["send", "send.co", "send site", "send document", "made with send"],
+  "keywords": [
+    "send.co",
+    "made with send",
+    "send site",
+    "send document",
+    "publish with send",
+    "share with send"
+  ],
   "logo": "assets/logo.svg"
 }

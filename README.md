@@ -1,11 +1,11 @@
 # Send plugin
 
-Publish what you are working on as a live, shareable web page — without leaving
-your agent.
+Create, edit, and share trackable documents with AI. Control access, capture
+leads, and understand engagement.
 
-Send creates and edits hosted sites, returns a real URL, and reports who opened
-it. This plugin bundles the hosted Send MCP server and a skill that teaches the
-agent when to reach for it.
+Send turns what you are working on into a hosted page at a real URL, then tells
+you who opened it, when, and for how long. This plugin bundles the hosted Send
+MCP server and a skill that teaches the agent when to reach for it.
 
 ## Install
 
