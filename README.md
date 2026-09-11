@@ -18,6 +18,7 @@ grok plugin install send
 **Claude Code**
 
 ```
+/plugin marketplace add Sendco/send-plugin
 /plugin install send@send
 ```
 
