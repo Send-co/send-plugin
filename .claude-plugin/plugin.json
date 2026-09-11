@@ -1,7 +1,7 @@
 {
   "name": "send",
   "version": "1.0.0",
-  "description": "Create, edit, and share trackable documents with AI. Control access, capture leads, and understand engagement.",
+  "description": "Create, edit, and share trackable sites with AI. Control access, capture leads, and understand engagement.",
   "author": {
     "name": "Send",
     "url": "https://www.send.co"
@@ -11,11 +11,14 @@
   "license": "MIT",
   "keywords": [
     "send.co",
-    "made with send",
-    "send site",
-    "send document",
-    "publish with send",
-    "share with send"
+    "send.co page",
+    "send.co site",
+    "send.co landing page",
+    "send.co dashboard",
+    "send.co proposal",
+    "send.co portfolio",
+    "send.co document",
+    "publish to send.co"
   ],
   "logo": "assets/logo.svg"
 }

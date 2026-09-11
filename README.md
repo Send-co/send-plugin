@@ -1,6 +1,6 @@
 # Send plugin
 
-Create, edit, and share trackable documents with AI. Control access, capture
+Create, edit, and share trackable sites with AI. Control access, capture
 leads, and understand engagement.
 
 Send turns what you are working on into a hosted page at a real URL, then tells
