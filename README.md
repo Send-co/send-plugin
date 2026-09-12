@@ -18,9 +18,13 @@ grok plugin install send
 **Claude Code**
 
 ```
-/plugin marketplace add Sendco/send-plugin
+/plugin marketplace add Send-co/send-plugin
 /plugin install send@send
 ```
+
+**Cursor**
+
+Install from the Cursor marketplace, or add this repo as a source.
 
 Or point any MCP-capable client at the server directly:
 
@@ -69,7 +73,7 @@ outward-facing at a live link.
 ## Links
 
 - [send.co](https://www.send.co)
-- [Report an issue](https://github.com/Sendco/send-plugin/issues)
+- [Report an issue](https://github.com/Send-co/send-plugin/issues)
 
 ## License
 

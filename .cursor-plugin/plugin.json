@@ -9,6 +9,7 @@
   "homepage": "https://www.send.co",
   "repository": "https://github.com/Send-co/send-plugin",
   "license": "MIT",
+  "mcpServers": "./.mcp.json",
   "keywords": [
     "send.co",
     "send.co page",
