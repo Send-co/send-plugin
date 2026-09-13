@@ -18,7 +18,7 @@ grok plugin install send
 **Claude Code**
 
 ```
-/plugin marketplace add Send-co/send-plugin
+/plugin marketplace add send-co/send-plugin
 /plugin install send@send
 ```
 
@@ -73,7 +73,7 @@ outward-facing at a live link.
 ## Links
 
 - [send.co](https://www.send.co)
-- [Report an issue](https://github.com/Send-co/send-plugin/issues)
+- [Report an issue](https://github.com/send-co/send-plugin/issues)
 
 ## License
 
